@@ -1,8 +1,9 @@
 ### Hi there, I'm Mikhail 👋
-- 🌱 I’m currently learning full stack web development with Java Script
-- 📫 How to reach me: 
--- [mikhail@allovertheus.com](mailto:mikhail@allovertheus.com),
--- [LinkedIn](https://www.linkedin.com/in/mikhail-webdev/)
+- 🌱 I’m currently learning full stack web development with Java Script (MERN stack)
+- 📫 How to reach me:<br>
+  - [Email](mailto:mikhail@allovertheus.com)
+  - [LinkedIn](https://www.linkedin.com/in/mikhail-webdev/)
+  - [Website](allovertheus.com)
 <!--
 **mikhail-webdev/mikhail-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
